@@ -1,0 +1,3 @@
+#PRVNI SOUBOR NA GITU
+
+#David: text
