@@ -1,7 +1,3 @@
 #PRVNI SOUBOR NA GITU
 
 #David: text
-
-#DRUHE ULOZENI NA GITU
-
-#Vlada: text
