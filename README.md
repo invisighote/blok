@@ -1,1 +1,2 @@
-# blok
+# blog do předmětu PPRO
+
